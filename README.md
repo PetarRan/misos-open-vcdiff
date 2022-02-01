@@ -2,7 +2,7 @@
 
 ### Електронски факултет
 
-### ref : https://github.com/google/open-vcdiff
+##### ref : https://github.com/google/open-vcdiff
 
 ## Назив предмета: Методи и системи за обраду сигнала
 
